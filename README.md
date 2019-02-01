@@ -21,3 +21,17 @@ To push changes, navigate to the root directory of reconfiglab.github.io and exe
 	git add --all .
 	git commit -m "version-specific note"
 	git push origin master
+	
+To edit following sections change the corresponding files:
+
+- home content: index.md
+- home sidebar: _include/sidebar.md
+- research content: research/index.md
+- to add/remove/change publications: _data/publications.yml
+- content of publication page: publications/index.html
+- to add/remove/change memebers: _data/memebers.yml
+- to add/remove/change alumni: _data/alumni.yml
+- content of memebers page: memebers/index.html
+- to add/remove/change news posts: add file in _posts directory with file name in "yyyy-mm-dd-title.md" format
+- contact page content: contact/index.md
+- to add/remove/change navigation bar: _data/navlinks.yml
