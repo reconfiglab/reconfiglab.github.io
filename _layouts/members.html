@@ -1,0 +1,15 @@
+{% include header.html %}
+
+<img class="img-responsive center-block" src="/static/img/mem_banner.jpg">
+
+<div class="row-fluid">
+    <div class="col-sm-8">
+        {{ content }}
+    </div>
+    <div class="col-sm-4">
+        {% capture sidebar %}{% include alumni_sidebar.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+    </div>
+</div>
+
+{% include footer.html %}

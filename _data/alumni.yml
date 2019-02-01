@@ -1,0 +1,22 @@
+#- name: Place Holder
+#  position: Place Holder
+#  enddate: Place Holder
+#  current: Place Holder
+
+- name: Jose Ordez Raul Garcia
+  position: Graduate Student
+  startdate: 2014
+  enddate: 2018
+  current: Research Engineer @ Intel Labs Germany
+
+- name: Malte Vesper
+  position: Graduate Student
+  startdate: 2014
+  enddate: 2019
+  current: Software dev @ place holder
+
+- name: Edson Horta
+  position: PostDoc
+  startdate: 2016
+  enddate: 2018
+  current: PostDoc @ place holder

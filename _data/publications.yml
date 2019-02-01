@@ -1,0 +1,19 @@
+# THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+
+- citation: '**A. Vaishnav, K.D. Pham, D. Koch** and J. Garside, "Resource Elastic Virtualization for FPGAs using OpenCL", 28th International Conference on Field Programmable Logic and Applications (FPL), Dublin, 2018.'
+  date: 07-2018
+  doi: 10.1109/FPL.2018.00028
+  image: '/static/img/pub/resource_elasticity.jpg'
+  pdf: '/static/pdf/Resource_Elastic_Virtualization_for_FPGAs_using_OpenCL_for_FPL.pdf'
+  links:
+    - name: "ResearchGate"
+      url: 'https://www.researchgate.net/publication/327368953_Resource_Elastic_Virtualization_for_FPGAs_using_OpenCL'
+     
+- citation: '**K.D. Pham, A. Vaishnav, M. Vesper, D. Koch**, "ZUCL: A ZYNQ UltraScale+ Framework for OpenCL HLS Applications", In Fifth International Workshop on FPGAs for Software Programmers (FSP 2018), 2018.'
+  date: 07-2018
+
+- citation: '**A. Vaishnav, K.D. Pham and D. Koch**, "A Survey on FPGA Virtualization", 28th International Conference on Field Programmable Logic and Applications (FPL), Dublin, 2018. '
+  date: 07-2018
+  
+- citation: '**A. Vaishnav, K.D. Pham and D. Koch**, "Live Migration for OpenCL FPGA Accelerators", International Conference on Field-Programmable Technology (FPT), Naha, 2018.'
+  date: 12-2018

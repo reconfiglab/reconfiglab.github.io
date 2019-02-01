@@ -1,0 +1,34 @@
+---
+title: Reconfig Lab Members
+layout: members
+group: members
+---
+
+<h1>Reconfig Lab Members</h1>
+
+The Reconfig Lab welcomes people of any race, religion, national origin, gender identity, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or ability.
+
+{% for person in site.data.members %}
+<hr>
+<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+<div id = "{{person.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-4">
+        <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"><br>
+        <strong>{{person.name}}</strong> <br>
+        {{person.position}} <br>
+        {% if person.website %}
+          <a href= "{{person.website}}">Personal Website</a> <br>
+        {% endif %}
+        {% if person.scholar %}
+          <a href= "http://scholar.google.com/citations?user={{person.scholar}}"> Scholar Citations </a> <br>
+        {% endif %}
+        {% if person.twitter %}
+          <a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
+        {% endif %}
+        <em>{{person.email}}</em> <br>
+    </div>
+    <div class="col-sm-8">
+        <p class="text-justify">{{person.description | markdownify}}</p>
+    </div>  
+</div>
+{% endfor %}

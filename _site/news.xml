@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>Zunder Lab News</title>
+  <link href="http://localhost:4000"/>
+  <link type="application/atom+xml" rel="self" href="http://localhost:4000/news.xml"/>
+  <updated>2019-02-01T12:53:03+00:00</updated>
+  <id>http://localhost:4000</id>
+  <author>
+    <name>Eli Zunder</name>
+    <!-- <email>you@example.com</email> -->
+  </author>
+
+  
+  <entry>
+    <id>http://localhost:4000/2019/02/01/New-Website</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2019/02/01/New-Website/"/>
+    <title>New Website</title>
+    <published>2019-02-01T00:00:00+00:00</published>
+    <updated>2019-02-01T00:00:00+00:00</updated>
+    <author>
+      <name>Anuj Vaishnav</name>
+      <uri>/2019/02/01/New-Website/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Future home of the Reconfig lab!  Watch this space. . .&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://localhost:4000/2019/01/25/Bogdans-viva</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2019/01/25/Bogdans-viva/"/>
+    <title>Bogdan's Viva</title>
+    <published>2019-01-25T00:00:00+00:00</published>
+    <updated>2019-01-25T00:00:00+00:00</updated>
+    <author>
+      <name>Anuj Vaishnav</name>
+      <uri>/2019/01/25/Bogdans-viva/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Bogdan passed the Viva!&lt;/p&gt;
+</content>
+  </entry>
+  
+ 
+</feed>

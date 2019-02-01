@@ -1,0 +1,24 @@
+{% include header.html %}
+
+<!--<img class="img-responsive center-block" src="/static/img/banner_large.jpg" alt="Circuit board graphic">-->
+<img class="img-responsive center-block" src="/static/img/sillicon_banner.jpg" alt="Processor Sillicon">
+
+<!-- width=100% style="padding:40px" -->
+
+
+<div class="row-fluid">
+    <div class="col-sm-8">
+    	
+    	<div class="jumbotron">
+        	{{ content }}
+        </div>
+    </div>
+    <div class="col-sm-4">
+    	<br>
+    	<img class="img-responsive-rounded left-block" src="/static/img/dirk_koch.png" width="70%" alt="Dirk Koch">
+    	<br>
+        {% include sidebar.html %}
+    </div>
+</div>
+
+{% include footer.html %}

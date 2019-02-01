@@ -1,0 +1,71 @@
+- name: Dirk Koch
+  image: /static/img/members/dirk_koch.png
+  position: Principal Investigator
+  email: dirk.koch (at) manchester.ac.uk
+  scholar: "GlZ0Vw8AAAAJ"
+  description: " Before I started my research on reconfigurable and parallel systems, I worked on power electronics and control systems during my master studies at the University of Paderborn, Germany. Before my PhD time, I implemented neural networks for classification and function approximation on coarse-grained CPU arrays. During my PhD time at the University of Erlangen-Nuremberg, Germany, I developed novel techniques for self-adaptive distributed embedded control systems based on FPGAs. After this, I led a research project at the University of Oslo, Norway which is targeting to make partial reconfiguration of FPGAs more accessible. In 2013, I joined the [Advanced Processors Technologies](http://apt.cs.man.ac.uk/) Group at the [University of Manchester](http://www.manchester.ac.uk/) as a lecturer. I was a program co-chair and organizer of the [FPL](http://fpl.org/) conference and I am a program committee member of several conferences and workshops including
+  
+  - AASC - International Workshop on Architecture-Aware Simulation and Computing
+  
+  - DATE - Design, Automation and Test in Europe
+  
+  - FCCM - IEEE International Symposium on Field-Programmable Custom Computing Machines
+  
+  - FPL - International Conference on Field-Programmable Logic and Applications
+  
+  - FPT - International Conference on Field Programmable Technology
+  
+  - FSP - International Workshop on FPGAs for Software Programmers
+  
+  - HEART - International Symposium on Highly-Efficient Accelerators and Reconfigurable Technologies
+  
+  - SPL - Southern Programmable Logic Conference
+  
+  - ReConFig - International Conference on Reconfigurable Computing and FPGAs
+  
+  - RAW - Reconfigurable Architectures Workshop
+  "
+
+- name: Anuj Vaishnav
+  image: /static/img/members/anuj.jpg
+  position: Graduate Student
+  email: anuj.vaishnav (at) manchester.ac.uk
+  scholar: "GIMybIcAAAAJ"
+  website: "https://personalpages.manchester.ac.uk/staff/anuj.vaishnav/"
+  description: "Ut pulvinar velit lacus, eget efficitur diam fringilla eget. Aliquam erat volutpat. Proin rhoncus eros sed maximus auctor. Cras quis elit et ex sagittis tempor. Nullam hendrerit sed orci ac aliquam. Praesent quam tortor, gravida scelerisque nunc et, hendrerit dictum dui. Vivamus justo massa, hendrerit ac lectus ac, porta finibus ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+
+
+- name: Khoa Pham
+  image: /static/img/members/anonymus.png
+  position: Graduate Student
+  email: khoa.pham (at) manchester.ac.uk
+  scholar: "vDZrtFgAAAAJ"
+  description: "Proin non purus ipsum. Integer vitae interdum lorem. Etiam id neque faucibus nunc venenatis iaculis condimentum ac augue. Nulla luctus maximus purus volutpat ultrices. Nulla euismod mauris id ornare aliquam. Maecenas tincidunt magna ante"
+
+- name: Ngyuen
+  image: /static/img/members/anonymus.png
+  position: PostDoc
+  email: khoa.pham (at) manchester.ac.uk
+  scholar: "vDZrtFgAAAAJ"
+  description: "Proin non purus ipsum. Integer vitae interdum lorem. Etiam id neque faucibus nunc venenatis iaculis condimentum ac augue. Nulla luctus maximus purus volutpat ultrices. Nulla euismod mauris id ornare aliquam. Maecenas tincidunt magna ante"
+
+- name: Babis Kritikakis
+  image: /static/img/members/anonymus.png
+  position: Graduate Student
+  email: khoa.pham (at) manchester.ac.uk
+  scholar: "vDZrtFgAAAAJ"
+  description: "Proin non purus ipsum. Integer vitae interdum lorem. Etiam id neque faucibus nunc venenatis iaculis condimentum ac augue. Nulla luctus maximus purus volutpat ultrices. Nulla euismod mauris id ornare aliquam. Maecenas tincidunt magna ante"
+  
+- name: Kristiyan Manev
+  image: /static/img/members/anonymus.png
+  position: Graduate Student
+  email: khoa.pham (at) manchester.ac.uk
+  scholar: "vDZrtFgAAAAJ"
+  description: "Proin non purus ipsum. Integer vitae interdum lorem. Etiam id neque faucibus nunc venenatis iaculis condimentum ac augue. Nulla luctus maximus purus volutpat ultrices. Nulla euismod mauris id ornare aliquam. Maecenas tincidunt magna ante"
+
+- name: Bogdan Grigore
+  image: /static/img/members/anonymus.png
+  position: Graduate Student
+  email: khoa.pham (at) manchester.ac.uk
+  scholar: "vDZrtFgAAAAJ"
+  description: "Proin non purus ipsum. Integer vitae interdum lorem. Etiam id neque faucibus nunc venenatis iaculis condimentum ac augue. Nulla luctus maximus purus volutpat ultrices. Nulla euismod mauris id ornare aliquam. Maecenas tincidunt magna ante"
